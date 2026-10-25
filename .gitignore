@@ -1,0 +1,3 @@
+# Build output, generated from the local sim install by build.py
+package/
+__pycache__/
